@@ -33,8 +33,6 @@
  */
 package fr.paris.lutece.plugins.myapps.modules.wsso.service;
 
-import edu.emory.mathcs.backport.java.util.Collections;
-
 import fr.paris.lutece.plugins.myapps.business.MyApps;
 import fr.paris.lutece.plugins.myapps.business.MyAppsUser;
 import fr.paris.lutece.plugins.myapps.modules.wsso.business.MyAppsWSSO;
@@ -44,6 +42,7 @@ import fr.paris.lutece.portal.service.util.AppPropertiesService;
 import fr.paris.lutece.util.sort.AttributeComparator;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 
