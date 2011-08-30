@@ -6,6 +6,7 @@
 	<body>
 		<section name="Module myapps wsso">
 			<subsection name="Introduction">
+			Pour récupérer les applications depuis le SSO.
 			</subsection>
 		</section>
 	</body>
