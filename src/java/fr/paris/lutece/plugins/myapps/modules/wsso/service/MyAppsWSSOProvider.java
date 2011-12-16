@@ -171,4 +171,14 @@ public final class MyAppsWSSOProvider implements MyAppsProvider
 
         return strUrl;
     }
+
+	public List<MyApps> getMyAppsListByCategory(String strCodeCategory,
+			boolean bIsAscSort) {
+		return null;
+	}
+
+	public List<MyApps> getMyAppsListByUserNameAndCategory(String strUserName,
+			String strCodeCategory, boolean bIsAscSort) {
+		return null;
+	}
 }
